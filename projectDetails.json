@@ -75,8 +75,7 @@
             "Admin can manage all the information of users and available service properties.",
             "User is able to manage their wishlist, message from their account."
         ],
-        "technology": "ReactJS, Redux toolkit, Nodejs(Express), MongoDB,Bootstrap,
-           Firebase Authentication, React Router, HTML, CSS."
+        "technology": "ReactJS, Redux toolkit, Nodejs(Express), MongoDB, Bootstrap, Firebase Authentication, React Router, HTML, CSS."
     },
     {
         "id": 1,
